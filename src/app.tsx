@@ -1,6 +1,6 @@
 import { ThemeProvider } from 'styled-components'
 
-import { Todo } from './pages/todo'
+import { Todo } from './pages/Todo'
 import { GlobalStyle } from './styles/global'
 import { defaultTheme } from './styles/themes/default'
 
